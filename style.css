@@ -36,6 +36,11 @@
 .user-post img{
     width: 350px;
     height: 250px;
+    transition: 0.5s;
+}
+
+.user-post img:hover {
+    scale: 1.01;
 }
 
 .action {
